@@ -1,0 +1,37 @@
+ body{background:white;font-family: 'Roboto', sans-serif;
+font-family: 'Shippori Antique B1', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;text-transform: uppercase;text-align: center;width: 100%;}
+    h1{color:rgb(56, 170, 243);
+        font-family:'anja_eliane_accentnornal';
+        font-weight: 300;
+        font-style: oblique;
+        letter-spacing: 4px;
+        text-shadow:white 2px 2px 2px;
+        font-size: 80px;}
+    h2{color:white;font-size:50px; 300;letter-spacing: 4px;text-shadow:1px 1px 1px;}
+    h3{color:white;font-weight: 300;font-size: 30px;letter-spacing: 4px;text-shadow:1px 1px 1px;}
+    h4{color: white;font-weight: 300;font-size: 20px;text-shadow:1px 1px 1px;}
+    div{background:rgba(248, 175, 107, 1);padding: 20px 20px 20px 20px;}
+    header{padding: 10px 10px 10px 10px;display: inline-block;}
+    footer{background:rgb(240, 238, 8); padding: 20px 20px 20px 20px;color: grey;
+        line-height: 20px;
+        letter-spacing: 2px;
+        font-weight: 300;}
+
+   
+    .azul{color:rgb(56, 170, 243);font-weight: 700;line-height: 20px;letter-spacing: 2px;}
+    section{color: grey;line-height: 20px;letter-spacing: 2px;margin-top: 30px;} 
+    section p:nth-child(1){color: rgb(248, 175, 107);font-weight: 700;font-size: 25px;}
+    .play{background: rgb(56, 170, 243);
+         padding: 30px 30px 30px 30px;
+         margin: 485px 30px 10px 1110px;
+         font-family:'anja_eliane_accentnornal';
+         font-weight: 300;
+         letter-spacing: 4px;
+         text-shadow:black 1px 1px 1px;
+         font-size: 30px;
+        color: white;
+    border-radius: 30px;border:solid 3px rgb(66, 65, 65);}
+    .play:hover{background: rgb(240, 238, 8);color:rgb(56, 170, 243)}
+    .foto{background:white; float: left; width: 30%;}
+   #play
